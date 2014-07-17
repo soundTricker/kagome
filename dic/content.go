@@ -5,7 +5,7 @@ import (
         "bytes"
         "encoding/gob"
 
-        "github.com/ikawaha/kagome/data"
+        "github.com/soundTricker/kagome/data"
 )
 
 

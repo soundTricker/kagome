@@ -4,8 +4,8 @@ import (
         "bytes"
         "encoding/gob"
 
-        "github.com/ikawaha/kagome/data"
-	"github.com/ikawaha/kagome/trie/da"
+        "github.com/soundTricker/kagome/data"
+	"github.com/soundTricker/kagome/trie/da"
 )
 
 var (

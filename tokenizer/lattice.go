@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unicode/utf8"
 
-	"github.com/ikawaha/kagome/dic"
+	"github.com/soundTricker/kagome/dic"
 )
 
 const (

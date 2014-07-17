@@ -3,7 +3,7 @@ package tokenizer
 import (
 	"fmt"
 
-	"github.com/ikawaha/kagome/dic"
+	"github.com/soundTricker/kagome/dic"
 )
 
 const (

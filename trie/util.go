@@ -1,7 +1,7 @@
 package trie
 
 import (
-	"github.com/ikawaha/kagome/trie/da"
+	"github.com/soundTricker/kagome/trie/da"
 
 	"bufio"
 	"errors"

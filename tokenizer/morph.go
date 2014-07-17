@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ikawaha/kagome/dic"
+	"github.com/soundTricker/kagome/dic"
 )
 
 type Morph struct {
